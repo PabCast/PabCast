@@ -1,4 +1,3 @@
-### 🌴Welcome 🌴
 
 <!--
 **Pablocastrophy/Pablocastrophy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# My adventures through Data Science ⚒🚸
+ ## ⚒🚸
 
 Welcome to my GitHub repository, where I share my exploration into the realm of Data Science! As an apprentice Data Scientist, I am actively acquiring skills and tools to analyze, visualize, and derive valuable information from complex data sets. My enthusiasm for Python, SQL, and visualization tools like Tableau, Seaborn, and Pandas fuels my pursuit of creating impactful projects that reflect my expanding skills.
 
