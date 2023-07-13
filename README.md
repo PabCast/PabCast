@@ -17,6 +17,3 @@ Hi there 👋
 My name is Pablo, and welcome to my coding portfolio. 
 I'm curtrently focused on learning various skills, and mastering diffrent tools to grow as a Data Scientist.
 
-
-📫 How to reach me:
-LinkedIn:(https://www.linkedin.com/in/goforpablo/)https://www.linkedin.com/in/goforpablo/
